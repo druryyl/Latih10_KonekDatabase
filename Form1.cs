@@ -68,7 +68,7 @@ namespace Latih10_KonekDatabase
 
             using var db = new SekolahKuDbContext();
             var siswa = db.Siswa.Find(int.Parse(siswaId));
-            ShowInput(siswa); //asdfasdfasdfv sdfgfdgsdfg
+            ShowInput(siswa); //asdfasdfasdfv sdfgfdgsdfg asdfasdfsadf
         }
 
     }
