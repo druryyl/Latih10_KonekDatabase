@@ -13,7 +13,7 @@ namespace Latih10_KonekDatabase
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
-            //    asdfasdfasdf asdfasdf aasd
+            //    asdfasdfasdf asdfasdf aasd 99999
         }
     }
 }
